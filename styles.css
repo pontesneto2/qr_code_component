@@ -82,5 +82,10 @@ h3{
     .container{
         width: 375px;
         height: 667px;
+        margin-top: 0;
+    }
+    .content{
+        padding: 12px;
+        width: 85%;
     }
 }
