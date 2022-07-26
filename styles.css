@@ -78,7 +78,7 @@ h3{
     text-decoration: none;
 }
 
-@media(max-width: 375px){
+@media(max-width: 500px){
     .container{
         width: 375px;
         height: 667px;
